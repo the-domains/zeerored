@@ -1,0 +1,28 @@
+name: zeerored
+favicon: null
+layout_spectrum: 0.8762296480126679
+typography_spectrum: 0.40426816907711327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.16349196922965348
+  lightness: 0.7037032698281109
+  saturation: 0.5680191882420331
+  rhythmicContrast: 0.38546597957611084
+purpose: []
